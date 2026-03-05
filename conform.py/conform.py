@@ -13,3 +13,4 @@ def pleaseConformOnepass(caps):
     if caps[start] == 'F':
         print("People in positions", start, "through", len(caps)-1, "flip your caps!")
         
+# Senior Dev: Kıvanç Çakmak 
